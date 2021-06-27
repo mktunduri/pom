@@ -1,0 +1,11 @@
+1623990140820	geckodriver	INFO	Listening on 127.0.0.1:19521
+1623990141574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MaDD0xX\\AppData\\Local\\Temp\\rust_mozprofiledOKNzz"
+1623990142068	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MaDD0xX\\AppData\\Local\\Temp\\rust_mozprofiledOKNzz\\search.json.mozlz4", (void 0)))
+1623990147540	Marionette	INFO	Listening on port 64337
+1623990147605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1623990192174	Marionette	INFO	Stopped listening on port 64337

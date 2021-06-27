@@ -1,0 +1,23 @@
+[
+{
+"users": {
+"browser": "chrome",
+"username": "remi.jullian@accenture.com",
+"password": "test@1234",
+}
+},
+{
+"users": {
+"browser": "firefox",
+"username": "remi1@accenture.com",
+"password": "test@1234",
+}
+},
+{
+"users": {
+"browser": "ie",
+"username": "remi@accenture.com",
+"password": "test@1234",
+}
+}
+]
